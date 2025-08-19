@@ -56,10 +56,10 @@ Then in order to run the project you can simply press __ctrl + R__ on your keybo
 - Supported iPhone and iPad screens
 
 ## Video (IPhone)
-Uploading LogMe - IPhone.mov…
+[LogMe IPhone](https://drive.google.com/file/d/1boYjjg3IaN89WbJb0xIkuNfxtKyjoOX_/view?usp=sharing)
 
 ## Video (IPad)
-
+[LogMe IPad](https://drive.google.com/file/d/1hTOYUMyILWGri2IeBMoxOi5jEFCF0tC1/view?usp=sharing)
 
 ## Screenshots (IPhone - Portrait)
 <a href="https://ibb.co/Ldh5NMVM"><img src="https://i.ibb.co/Sw7rf2F2/Log-Me-IPhone-Portrait-Main.png" alt="Log-Me-IPhone-Portrait-Main" border="0"></a>
