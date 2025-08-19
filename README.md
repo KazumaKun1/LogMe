@@ -59,7 +59,7 @@ Then in order to run the project you can simply press __ctrl + R__ on your keybo
 Uploading LogMe - IPhone.mov…
 
 ## Video (IPad)
-Uploading LogMe - IPad.mov…
+
 
 ## Screenshots (IPhone - Portrait)
 <a href="https://ibb.co/Ldh5NMVM"><img src="https://i.ibb.co/Sw7rf2F2/Log-Me-IPhone-Portrait-Main.png" alt="Log-Me-IPhone-Portrait-Main" border="0"></a>
